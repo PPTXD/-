@@ -10,4 +10,10 @@
 以上是VUE框架所涉及的技术的版本，最好一致，别的版本未测试
 
 
+
 ![image](https://github.com/PPTXD/-/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%9B%BE%E7%89%871.png)
+![image](https://github.com/PPTXD/-/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%9B%BE%E7%89%873.png)
+![image](https://github.com/PPTXD/-/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%9B%BE%E7%89%874.png)
+![image](https://github.com/PPTXD/-/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%9B%BE%E7%89%875.png)
+![image](https://github.com/PPTXD/-/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/image2.png)
+![image](https://github.com/PPTXD/-/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/image3.png)
